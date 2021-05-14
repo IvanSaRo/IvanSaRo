@@ -2,6 +2,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
  <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="450" height="350">
+
 - 🔭 I’m currently working on a music app
 - 🌱 I’m currently learning advance CSS
 - 👯 I’m looking to collaborate on open source
