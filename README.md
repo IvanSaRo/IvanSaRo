@@ -1,8 +1,7 @@
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
->
-  <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="400">
+  <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400" height="350">
 
 
 - 🔭 I’m currently working on a music app
@@ -13,5 +12,4 @@
 - 📫 How to reach me: [Twitter](https://twitter.com/RodrSanc) or [Linkedin](https://www.linkedin.com/in/ivansanchezrod/)
 - ⚡ Fun fact: I could buy a cheap car with the money I have spent on books and comics
 
-[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
