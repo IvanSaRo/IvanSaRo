@@ -1,6 +1,7 @@
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<p>My name´s Iván, I´m a front-end deeloper</p>
+<hr><hr>
+<p>My name´s Iván, I´m a front-end developer</p>
  
   
 - 🔭 I’m currently working on a music app
