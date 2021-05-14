@@ -13,5 +13,5 @@
 - 📫 How to reach me: [Twitter](https://twitter.com/RodrSanc) or [Linkedin](https://www.linkedin.com/in/ivansanchezrod/)
 - ⚡ Fun fact: I could buy a cheap car with the money I have spent on books and comics
 
-
+[<img align="left" alt="holisitc_developer | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
