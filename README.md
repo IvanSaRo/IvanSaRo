@@ -1,3 +1,6 @@
+ <img align="center" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="100%" height="320" />
+
+
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 - 🔭 I’m currently working on a music app
@@ -8,4 +11,4 @@
 - 📫 How to reach me: [Twitter](https://twitter.com/RodrSanc) or [Linkedin](https://www.linkedin.com/in/ivansanchezrod/)
 - ⚡ Fun fact: I could buy a cheap car with the money I have spent on books and comics
 
- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
